@@ -4,8 +4,6 @@
 
 ## O projektu
 
-Projekt je dio zajedničke suradnje studenata **Informacijskih i poslovnih sustava (IPS)** i **Ekonomike poduzetništva (EP)** u suradnji s IT tvrtkom **SICK**.
-
 Cilj je razviti AI model koji u **stvarnom vremenu** prepoznaje događaje vezane uz gorivo iz telemetrijskih podataka kamiona:
 - **Refuel** – točenje goriva
 - **Withdrawal / Theft** – krađa ili neovlašteno točenje
